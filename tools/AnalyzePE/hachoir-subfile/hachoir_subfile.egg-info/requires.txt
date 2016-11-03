@@ -1,0 +1,3 @@
+hachoir-core>=1.1
+hachoir-parser>=1.1
+hachoir-regex>=1.0.1

@@ -1,0 +1,17 @@
+AUTHORS
+COPYING
+README
+hachoir-subfile
+setup.py
+hachoir_subfile/__init__.py
+hachoir_subfile/data_rate.py
+hachoir_subfile/output.py
+hachoir_subfile/pattern.py
+hachoir_subfile/search.py
+hachoir_subfile/version.py
+hachoir_subfile.egg-info/PKG-INFO
+hachoir_subfile.egg-info/SOURCES.txt
+hachoir_subfile.egg-info/dependency_links.txt
+hachoir_subfile.egg-info/requires.txt
+hachoir_subfile.egg-info/top_level.txt
+hachoir_subfile.egg-info/zip-safe
