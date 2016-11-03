@@ -1,0 +1,3 @@
+[console_scripts]
+vt = vt.__main__:main
+
